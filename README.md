@@ -1,6 +1,14 @@
-![cabecalho](https://github.com/faellbalboa/faellbalboa/blob/main/h1%20github.png)
+![cabecalho](https://github.com/faellbalboa/faellbalboa/blob/main/h1%20github.png) 
+
+![GitHub followers](https://img.shields.io/github/followers/faellbalboa?color=%23c16a28&label=Follow%20me&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/faellbalboa/faellbalboa?color=%23c16a28&label=Size&style=flat-square)
+[![Instagram Badge](https://img.shields.io/badge/-Rafael%20Rodrigues-262f38?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/faelbalboa/)](https://www.instagram.com/faelbalboa/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Rodrigues-262f38?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-rodrigues-43a3b818a/)](https://www.linkedin.com/in/rafael-rodrigues-43a3b818a/) 
+[![Gmail Badge](https://img.shields.io/badge/-faellrs@gmail.com-262f38?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faellrs@gmail.com)](mailto:faellrs@gmail.com)
 <h1 align="center"> A little bit about me :satisfied:</h1>
-<h3> Brazilian, born in Santa Maria-RS and living in Recife for 15 years, I'm a fullstack developer, passionate about programming and technology in general. Specialist in creating web applications and websites optimized for search engines. In his spare time I study UX / UI and brand design, working as a freelancer, people who want to enter the digital world or, creating brands and making digital marketing campaigns for small and medium entrepreneurs.</h3>
+<h4> Brazilian, born in Santa Maria-RS and living in Recife for 15 years, CEO @refact, I'm a fullstack developer, passionate about programming and technology in general. Specialist in creating web applications and websites optimized for search engines. In his spare time I study UX / UI and brand design, working as a freelancer, people who want to enter the digital world or, creating brands and making digital marketing campaigns for small and medium entrepreneurs.</h3>
+
+
 
 <p>
   
