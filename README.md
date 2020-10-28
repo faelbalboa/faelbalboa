@@ -1,5 +1,5 @@
 <!-- Imagem do topo da biografia -->
-![cabecalho](https://github.com/faellbalboa/faellbalboa/blob/main/h1%20github.png)
+![cabecalho](https://github.com/faellbalboa/faellbalboa/blob/main/head%20github%40300x.png)
 <!-- Botões com links -->
  ![GitHub followers](https://img.shields.io/github/followers/faellbalboa?color=%23c16a28&label=Followers&style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/faellbalboa/faellbalboa?color=%23c16a28&label=Size&style=flat-square)
