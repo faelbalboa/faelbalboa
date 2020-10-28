@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center"> Hello World :satisfied:</h1>
+<h3> Brazilian, born in Santa Maria-RS and living in Recife for 15 years, I'm a fullstack developer, passionate about programming and technology in general. Specialist in creating web applications and websites optimized for search engines. In his spare time I study UX / UI and brand design, working as a freelancer, people who want to enter the digital world or, creating brands and making digital marketing campaigns for small and medium entrepreneurs.</h3>
+
+<p>
+  
+</p>
 
 <!--
 **faellbalboa/faellbalboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
