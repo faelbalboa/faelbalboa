@@ -1,6 +1,6 @@
 ![cabecalho](https://github.com/faellbalboa/faellbalboa/blob/main/h1%20github.png) 
 
-![GitHub followers](https://img.shields.io/github/followers/faellbalboa?color=%23c16a28&label=Follow%20me&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/faellbalboa?color=%23c16a28&label=Followers&style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/faellbalboa/faellbalboa?color=%23c16a28&label=Size&style=flat-square)
 [![Instagram Badge](https://img.shields.io/badge/-Rafael%20Rodrigues-262f38?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/faelbalboa/)](https://www.instagram.com/faelbalboa/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Rodrigues-262f38?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-rodrigues-43a3b818a/)](https://www.linkedin.com/in/rafael-rodrigues-43a3b818a/) 
