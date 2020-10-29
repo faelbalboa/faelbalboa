@@ -14,7 +14,7 @@
 <h1 align="center"> A little bit about me :satisfied:</h1>
 
 <!-- Descrição da bio -->
-<h4> Brazilian, born in Santa Maria-RS and living in Recife for 15 years, CEO @refact, I'm a fullstack developer, passionate about programming and technology in general. Specialist in creating web applications and websites optimized for search engines. In his spare time I study UX / UI and brand design, working as a freelancer, people who want to enter the digital world or, creating brands and making digital marketing campaigns for small and medium entrepreneurs.</h4>
+<h4> Brazilian, born in Santa Maria-RS and living in Recife for 15 years. CEO @refact, a fullstack developer, passionate about programming and technology in general. Specialist in creating web applications and websites to optimized searches about engines. In my spare time, I study UX / UI, brand design, working as a freelancer to help people who want to enter the digital world. Within these habilites, I create brands and digital marketing campaigns for small and medium entrepreneurs.</h4>
 
 
 
