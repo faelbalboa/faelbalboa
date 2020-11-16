@@ -1,5 +1,5 @@
 <!-- Imagem do topo da biografia -->
-![cabecalho](https://github.com/faellbalboa/faellbalboa/blob/main/head%20github%40300x.png)
+![cabecalho](https://github.com/faelbalboa/faelbalboa/blob/main/capa%20github.png)
 <!-- Botões com linkss -->
  ![GitHub repo size](https://img.shields.io/github/repo-size/faellbalboa/faellbalboa?color=%23c16a28&label=Size&style=flat-square)
 [![Instagram Badge](https://img.shields.io/badge/-Rafael%20Rodrigues-262f38?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/faelbalboa/)](https://www.instagram.com/faelbalboa/)
